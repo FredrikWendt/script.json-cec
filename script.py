@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import xbmc
 import urlparse
 import sys
